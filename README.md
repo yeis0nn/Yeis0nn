@@ -77,17 +77,6 @@ I build polished web experiences, AI-ready tools, and practical digital products
 
 ---
 
-## 2026 Goals
-
-- [ ] Build and document 10 polished portfolio projects
-- [ ] Learn React and Node.js through production-minded projects
-- [ ] Learn Docker fundamentals and containerize an application
-- [ ] Build real AI-powered applications
-- [ ] Deepen my cybersecurity, Linux, and networking fundamentals
-- [ ] Earn my first developer role or freelance technology opportunity
-
----
-
 ## Let's Connect
 
 - **GitHub:** [@Yeis0nn](https://github.com/Yeis0nn)
